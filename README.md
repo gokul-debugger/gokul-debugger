@@ -19,7 +19,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## Hello, I’m Paco
+## I’m Gokul
 
 I’m a student building end-to-end data science projects from real datasets. I enjoy the whole path: asking better questions, building a dependable baseline, evaluating honestly, and turning the result into an interactive demo.
 
