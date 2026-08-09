@@ -123,9 +123,11 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 ## My Build Pattern
 
-```text
-raw data  →  questions  →  clean features  →  baselines  →  evaluation  →  usable demo
-```
+<div align="center">
+
+<img src="./assets/build-pipeline.svg" alt="Animated pipeline from raw data to usable demo" width="100%" />
+
+</div>
 
 I compare meaningful models, document trade-offs, preserve reproducible workflows, and keep the limitations visible.
 
