@@ -10,6 +10,7 @@
 
 [![Repositories](https://img.shields.io/badge/PORTFOLIO-06_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
 [![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
+[![Website](https://img.shields.io/badge/WEBSITE-VIEW_PORTFOLIO-8B5CF6?style=flat-square&labelColor=0D1117&logo=cloudflarepages&logoColor=white)](https://gokul-krishna-portfolio.pages.dev/)
 
 </div>
 
@@ -175,6 +176,7 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gokul--debugger-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/gokul-debugger)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gokul--krishna-8B5CF6?style=flat-square&logo=cloudflarepages&logoColor=FFFFFF)](https://gokul-krishna-portfolio.pages.dev/)
 
 <br />
 
