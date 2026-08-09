@@ -139,6 +139,6 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 <br />
 
-<img src="./assets/learn-test-ship.svg" alt="Keep learning, keep testing, keep shipping" width="100%" />
+<img src="./assets/build-quest-arcade.svg" alt="Pixel-art build quest: learn, test, ship, repeat" width="100%" />
 
 </div>
