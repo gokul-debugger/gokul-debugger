@@ -137,8 +137,8 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 [![GitHub](https://img.shields.io/badge/GitHub-gokul--debugger-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/gokul-debugger)
 
-```text
-keep learning  /  keep testing  /  keep shipping
-```
+<br />
+
+<img src="./assets/learn-test-ship.svg" alt="Keep learning, keep testing, keep shipping" width="100%" />
 
 </div>

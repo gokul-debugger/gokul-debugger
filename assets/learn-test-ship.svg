@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Learn, test, ship, repeat</title>
+  <desc id="desc">An animated neon build loop showing learning, testing, and shipping as a continuous cycle.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b111b"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d0ba"/>
+      <stop offset="0.52" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f5c451"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d0ba" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#35d0ba" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#35d0ba" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.45"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="loopRail" d="M 160 150 H 1040"/>
+  </defs>
+
+  <rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="18" fill="url(#dots)"/>
+  <rect x="30" y="26" width="1140" height="198" rx="14" fill="none" stroke="#29384d" stroke-width="2"/>
+
+  <rect x="-360" y="27" width="360" height="196" fill="url(#scan)">
+    <animate attributeName="x" values="-360;1200" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="58" y="58" fill="#718198" font-family="monospace" font-size="13" letter-spacing="2">ITERATION ENGINE</text>
+  <text x="1010" y="58" fill="#718198" font-family="monospace" font-size="12">LOOP:</text>
+  <text x="1058" y="58" fill="#35d0ba" font-family="monospace" font-size="12" font-weight="700">ACTIVE</text>
+  <circle cx="1134" cy="54" r="5" fill="#35d0ba" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M 160 150 H 1040" fill="none" stroke="#243146" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 160 150 H 1040" fill="none" stroke="url(#rail)" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 12">
+    <animate attributeName="stroke-dashoffset" values="42;0" dur="1.2s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="monospace" text-anchor="middle">
+    <text x="240" y="113" fill="#35d0ba" font-size="15" letter-spacing="3">KEEP</text>
+    <text x="240" y="143" fill="#f4f7fb" font-size="30" font-weight="700" letter-spacing="2">LEARNING
+      <animate attributeName="fill" values="#f4f7fb;#35d0ba;#f4f7fb;#f4f7fb" keyTimes="0;0.12;0.28;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="240" y="184" fill="#718198" font-size="11">QUESTION EVERYTHING</text>
+
+    <text x="600" y="113" fill="#a78bfa" font-size="15" letter-spacing="3">KEEP</text>
+    <text x="600" y="143" fill="#f4f7fb" font-size="30" font-weight="700" letter-spacing="2">TESTING
+      <animate attributeName="fill" values="#f4f7fb;#f4f7fb;#a78bfa;#f4f7fb;#f4f7fb" keyTimes="0;0.27;0.45;0.61;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="184" fill="#718198" font-size="11">MEASURE HONESTLY</text>
+
+    <text x="960" y="113" fill="#f5c451" font-size="15" letter-spacing="3">KEEP</text>
+    <text x="960" y="143" fill="#f4f7fb" font-size="30" font-weight="700" letter-spacing="2">SHIPPING
+      <animate attributeName="fill" values="#f4f7fb;#f4f7fb;#f5c451;#f4f7fb" keyTimes="0;0.62;0.82;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="960" y="184" fill="#718198" font-size="11">LEARN IN PUBLIC</text>
+  </g>
+
+  <g fill="#0d1117" stroke-width="3">
+    <circle cx="160" cy="150" r="8" stroke="#35d0ba"/>
+    <circle cx="420" cy="150" r="6" stroke="#4fbfcd"/>
+    <circle cx="600" cy="150" r="8" stroke="#a78bfa"/>
+    <circle cx="780" cy="150" r="6" stroke="#cf9fd4"/>
+    <circle cx="1040" cy="150" r="8" stroke="#f5c451"/>
+  </g>
+
+  <circle r="7" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#loopRail"/>
+    </animateMotion>
+    <animate attributeName="fill" values="#35d0ba;#a78bfa;#f5c451;#35d0ba" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="211" text-anchor="middle" fill="#55657b" font-family="monospace" font-size="11" letter-spacing="4">BUILD  /  OBSERVE  /  IMPROVE  /  REPEAT</text>
+</svg>
