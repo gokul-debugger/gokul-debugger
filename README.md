@@ -8,7 +8,6 @@
 
 <br />
 
-[![Profile views](https://komarev.com/ghpvc/?username=gokul-debugger&color=35D0BA&style=flat-square&label=PROFILE+VIEWS)](https://github.com/gokul-debugger)
 [![Repositories](https://img.shields.io/badge/PORTFOLIO-06_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
 [![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
 
@@ -114,10 +113,7 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul-debugger&theme=github_dark" alt="GitHub profile details" width="95%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokul-debugger&theme=github_dark" alt="Repositories by language" width="47%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokul-debugger&theme=github_dark" alt="Most used commit languages" width="47%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
