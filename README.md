@@ -103,9 +103,22 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 ## Toolkit
 
+<p align="center"><em>Languages and tools used across projects and coursework; experience depth varies by tool.</em></p>
+
 <p align="center">
-  <strong>Core and data</strong><br />
+  <strong>Languages</strong><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash and Zsh" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111" alt="C" />
+</p>
+
+<p align="center">
+  <strong>Data and scientific computing</strong><br />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
@@ -135,6 +148,7 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
   <strong>Workflow</strong><br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker basics" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
