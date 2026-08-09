@@ -103,11 +103,40 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 ## Toolkit
 
-<div align="center">
+<p align="center">
+  <strong>Core and data</strong><br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,tensorflow,jupyter,streamlit,git&theme=dark" alt="Python, pandas, scikit-learn, TensorFlow, Jupyter, Streamlit, and Git" />
+<p align="center">
+  <strong>Machine learning, NLP, and vision</strong><br />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B28?style=flat-square&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NLTK-2E8B57?style=flat-square" alt="NLTK" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-</div>
+<p align="center">
+  <strong>Visualization and applications</strong><br />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p align="center">
+  <strong>Workflow</strong><br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+</p>
 
 ## GitHub Overview
 
