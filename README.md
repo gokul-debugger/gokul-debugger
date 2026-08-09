@@ -28,15 +28,11 @@ My portfolio explores machine learning, NLP, customer analytics, cybersecurity, 
 </td>
 <td width="45%" valign="top">
 
-```text
-┌─ CURRENT STATUS ───────────┐
-│                            │
-│  learning      [ active ]  │
-│  building      [ active ]  │
-│  deploying     [ exploring ]│
-│                            │
-└────────────────────────────┘
-```
+<div align="center">
+
+<img src="./assets/current-status-arcade.svg" alt="Animated retro arcade current status: learning active, building active, deploying exploring" width="100%" />
+
+</div>
 
 </td>
 </tr>
