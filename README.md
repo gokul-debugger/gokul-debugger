@@ -8,7 +8,7 @@
 
 <br />
 
-[![Repositories](https://img.shields.io/badge/PORTFOLIO-06_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
+[![Repositories](https://img.shields.io/badge/PORTFOLIO-07_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
 [![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
 [![Website](https://img.shields.io/badge/WEBSITE-VIEW_PORTFOLIO-8B5CF6?style=flat-square&labelColor=0D1117&logo=cloudflarepages&logoColor=white)](https://gokul-krishna-portfolio.pages.dev/)
 
@@ -24,7 +24,7 @@
 
 I’m a student building end-to-end data science projects from real datasets. I enjoy the whole path: asking better questions, building a dependable baseline, evaluating honestly, and turning the result into an interactive demo.
 
-My portfolio explores machine learning, NLP, customer analytics, cybersecurity, experimentation, and recommendation systems.
+My portfolio explores machine learning, NLP, customer analytics, cybersecurity, experimentation, recommendation systems, and open-source developer tooling.
 
 </td>
 <td width="45%" valign="top">
@@ -50,6 +50,12 @@ My portfolio explores machine learning, NLP, customer analytics, cybersecurity, 
 </div>
 
 ## Featured Work
+
+### 🧭 Developer Tooling
+
+**[ContribCheck: GitHub Issue Readiness Checker](https://github.com/gokul-debugger/contribcheck)**
+
+An evidence-based Python CLI and FastAPI service that checks dependencies, assignments, competing pull requests, repository health, and CI before contribution work begins.
 
 <table>
 <tr>
