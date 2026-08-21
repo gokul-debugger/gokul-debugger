@@ -8,7 +8,7 @@
 
 <br />
 
-[![Repositories](https://img.shields.io/badge/PORTFOLIO-07_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
+[![Repositories](https://img.shields.io/badge/PORTFOLIO-11_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
 [![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
 [![Website](https://img.shields.io/badge/WEBSITE-VIEW_PORTFOLIO-8B5CF6?style=flat-square&labelColor=0D1117&logo=cloudflarepages&logoColor=white)](https://gokul-krishna-portfolio.pages.dev/)
 
@@ -57,6 +57,16 @@ My portfolio explores machine learning, NLP, customer analytics, cybersecurity, 
 
 An evidence-based Python CLI and FastAPI service that checks dependencies, assignments, competing pull requests, repository health, and CI before contribution work begins.
 
+### 🧰 Practical Products
+
+**[RecallBridge: Product Recall Search](https://github.com/gokul-debugger/recallbridge)**
+
+Source-linked recall search across CPSC and openFDA data, with explainable matching and private browser watchlists.
+
+**[PaperSteps: Accessible PDF Workspace](https://github.com/gokul-debugger/papersteps)**
+
+A local-first browser workspace for completing fillable PDF forms with a focus on clear, accessible workflows.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -103,6 +113,15 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 </td>
 </tr>
 </table>
+
+## Open Source Work
+
+I also contribute upstream when a project has a useful, well-scoped improvement:
+
+- **[Thunderbird Pro add-on #1093](https://github.com/thunderbird/tbpro-add-on/pull/1093)**: translation foundation for the Send interface, currently awaiting maintainer review.
+- **[Django Modern REST #1249](https://github.com/wemake-services/django-modern-rest/pull/1249)**: expanded token authentication coverage, merged.
+- **[ytmusicapi #999](https://github.com/sigma67/ytmusicapi/pull/999)**: CI coverage for the `ytmusicapi-2` branch, merged.
+- **[Plotly.js #7958](https://github.com/plotly/plotly.js/pull/7958)** and **[#7963](https://github.com/plotly/plotly.js/pull/7963)**: active contributions to chart alignment and JSON export workflows.
 
 ## Toolkit
 
@@ -159,9 +178,11 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokul-debugger&theme=github_dark" alt="GitHub profile statistics" width="47%" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokul-debugger&theme=github_dark" alt="Repositories by language" width="47%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-debugger&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="95%" />
 
