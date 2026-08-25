@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/lab-banner.svg" alt="Paco's Applied ML Lab" width="100%" />
+<img src="./assets/lab-banner.svg" alt="Gokul's applied product lab" width="100%" />
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=35D0BA&center=true&vCenter=true&width=760&lines=Applied+machine+learning+%2B+data+storytelling;Building+models+that+people+can+actually+use;Learning+by+shipping+one+project+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=35D0BA&center=true&vCenter=true&width=760&lines=Applied+ML+%2B+useful+software;Building+products+from+real+problems;Learning+in+public+through+open+source)](https://git.io/typing-svg)
 
 <br />
 
-[![Repositories](https://img.shields.io/badge/PORTFOLIO-11_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
-[![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
+[![Repositories](https://img.shields.io/badge/PORTFOLIO-10_SHIPPED_PROJECTS-35D0BA?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger?tab=repositories)
+[![Focus](https://img.shields.io/badge/FOCUS-APPLIED_ML_%2B_PRODUCTS-F5C451?style=flat-square&labelColor=0D1117)](https://github.com/gokul-debugger)
 [![Website](https://img.shields.io/badge/WEBSITE-VIEW_PORTFOLIO-8B5CF6?style=flat-square&labelColor=0D1117&logo=cloudflarepages&logoColor=white)](https://gokul-krishna-portfolio.pages.dev/)
 
 </div>
@@ -22,9 +22,9 @@
 
 ## I’m Gokul
 
-I’m a student building end-to-end data science projects from real datasets. I enjoy the whole path: asking better questions, building a dependable baseline, evaluating honestly, and turning the result into an interactive demo.
+I’m a student building end-to-end data products and open-source software from real problems. I enjoy the whole path: asking better questions, designing a dependable solution, testing it honestly, and shipping something people can use.
 
-My portfolio explores machine learning, NLP, customer analytics, cybersecurity, experimentation, recommendation systems, and open-source developer tooling.
+My work spans machine learning, NLP, customer analytics, cybersecurity, experimentation, recommendation systems, accessible web products, and developer tooling.
 
 </td>
 <td width="45%" valign="top">
@@ -53,17 +53,17 @@ My portfolio explores machine learning, NLP, customer analytics, cybersecurity, 
 
 ### 🧭 Developer Tooling
 
-**[ContribCheck: GitHub Issue Readiness Checker](https://github.com/gokul-debugger/contribcheck)**
+**[ContribCheck: GitHub Issue Readiness Checker](https://github.com/gokul-debugger/contribcheck)** · [PyPI](https://pypi.org/project/contribcheck/)
 
-An evidence-based Python CLI and FastAPI service that checks dependencies, assignments, competing pull requests, repository health, and CI before contribution work begins.
+An evidence-based Python CLI and FastAPI service that checks dependencies, assignments, competing pull requests, repository health, and CI before contribution work begins. Install with `pip install contribcheck`.
 
 ### 🧰 Practical Products
 
-**[RecallBridge: Product Recall Search](https://github.com/gokul-debugger/recallbridge)**
+**[RecallBridge: Product Recall Search](https://github.com/gokul-debugger/recallbridge)** · [Live app](https://recallbridge.onrender.com/)
 
 Source-linked recall search across CPSC and openFDA data, with explainable matching and private browser watchlists.
 
-**[PaperSteps: Accessible PDF Workspace](https://github.com/gokul-debugger/papersteps)**
+**[PaperSteps: Accessible PDF Workspace](https://github.com/gokul-debugger/papersteps)** · [Live app](https://gokul-debugger.github.io/papersteps/)
 
 A local-first browser workspace for completing fillable PDF forms with a focus on clear, accessible workflows.
 
@@ -118,10 +118,10 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 
 I also contribute upstream when a project has a useful, well-scoped improvement:
 
-- **[Thunderbird Pro add-on #1093](https://github.com/thunderbird/tbpro-add-on/pull/1093)**: translation foundation for the Send interface, currently awaiting maintainer review.
+- **[Thunderbird Pro add-on #1093](https://github.com/thunderbird/tbpro-add-on/pull/1093)**: translation foundation for the Send interface, merged.
 - **[Django Modern REST #1249](https://github.com/wemake-services/django-modern-rest/pull/1249)**: expanded token authentication coverage, merged.
 - **[ytmusicapi #999](https://github.com/sigma67/ytmusicapi/pull/999)**: CI coverage for the `ytmusicapi-2` branch, merged.
-- **[Plotly.js #7958](https://github.com/plotly/plotly.js/pull/7958)** and **[#7963](https://github.com/plotly/plotly.js/pull/7963)**: active contributions to chart alignment and JSON export workflows.
+- **[Plotly.js #7958](https://github.com/plotly/plotly.js/pull/7958)** and **[#7990](https://github.com/plotly/plotly.js/pull/7990)**: active contributions to chart alignment and JSON export workflows.
 
 ## Toolkit
 
@@ -134,6 +134,7 @@ I also contribute upstream when a project has a useful, well-scoped improvement:
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Bash%20%2F%20Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash and Zsh" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111" alt="C" />
@@ -164,6 +165,9 @@ I also contribute upstream when a project has a useful, well-scoped improvement:
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 <p align="center">
@@ -171,6 +175,9 @@ I also contribute upstream when a project has a useful, well-scoped improvement:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 

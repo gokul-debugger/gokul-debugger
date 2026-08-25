@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
   <title id="title">Gokul's animated current status</title>
-  <desc id="desc">A purple and gold retro arcade status panel showing learning and building as active, and deploying as exploring.</desc>
+  <desc id="desc">A purple and gold retro arcade status panel showing learning, building, and deploying as active.</desc>
 
   <defs>
     <pattern id="scanlines" width="6" height="6" patternUnits="userSpaceOnUse">
@@ -70,8 +70,8 @@
       <rect x="319" y="174" width="118" height="32" fill="#3b1e59" stroke="#f5c451" stroke-width="2"/>
       <text x="378" y="195" fill="#f5c451">[ ACTIVE ]</text>
 
-      <rect x="305" y="226" width="146" height="32" fill="#3b1e59" stroke="#b995d4" stroke-width="2"/>
-      <text x="378" y="247" fill="#d9b7f0">[ EXPLORING ]</text>
+      <rect x="319" y="226" width="118" height="32" fill="#3b1e59" stroke="#f5c451" stroke-width="2"/>
+      <text x="378" y="247" fill="#f5c451">[ ACTIVE ]</text>
     </g>
   </g>
 
@@ -84,7 +84,7 @@
       <animate attributeName="opacity" values="0.25;1;0.25" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>
-  <rect x="290" y="237" width="10" height="10" fill="#b995d4">
+  <rect x="290" y="237" width="10" height="10" fill="#f5c451" filter="url(#goldGlow)">
     <animate attributeName="width" values="10;4;10" dur="1.4s" repeatCount="indefinite"/>
   </rect>
 
