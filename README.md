@@ -191,6 +191,12 @@ I also contribute upstream when a project has a useful, well-scoped improvement:
 
 <img src="https://streak-stats.demolab.com/?user=gokul-debugger&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
+<br />
+
+<a href="https://github.com/gokul-debugger">
+  <img src="https://ghchart.rshah.org/7c3aed/gokul-debugger" alt="Gokul's GitHub contribution calendar" width="95%" />
+</a>
+
 </div>
 
 ## My Build Pattern
