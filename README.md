@@ -194,7 +194,7 @@ I also contribute upstream when a project has a useful, well-scoped improvement:
 <br />
 
 <a href="https://github.com/gokul-debugger">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul-debugger&amp;theme=github_dark&amp;name=Gokul&amp;title_color=D4AF37&amp;chart_color=8B5CF6&amp;icon_color=D4AF37&amp;animation=draw&amp;duration=4" alt="Gokul's GitHub contribution activity wave" width="95%" />
+  <img src="./assets/monthly-activity-wave.svg" alt="Gokul's GitHub activity over the last 30 days" width="95%" />
 </a>
 
 </div>
