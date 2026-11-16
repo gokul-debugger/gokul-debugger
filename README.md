@@ -49,6 +49,16 @@ My work spans machine learning, NLP, customer analytics, cybersecurity, experime
 
 </div>
 
+## Open Source Work
+
+Selected contributions merged upstream:
+
+- **[Plotly.js #7990](https://github.com/plotly/plotly.js/pull/7990)**: added an optional toolbar button to download a figure as JSON.
+- **[Suite Numérique Docs #2608](https://github.com/suitenumerique/docs/pull/2608)**: added Markdown export as a ZIP with bundled media and portable links.
+- **[Thunderbird Pro add-on #1093](https://github.com/thunderbird/tbpro-add-on/pull/1093)**: set up localization for the Send interface, including English fallback and tests.
+- **[Django Modern REST #1249](https://github.com/wemake-services/django-modern-rest/pull/1249)**: expanded test coverage for synchronous and asynchronous token authentication.
+- **[ytmusicapi #999](https://github.com/sigma67/ytmusicapi/pull/999)**: enabled lint and test coverage workflows for the `ytmusicapi-2` development branch.
+
 ## Featured Work
 
 ### 🧭 Developer Tooling
@@ -83,11 +93,11 @@ Content-based discovery, collaborative filtering, hybrid ranking, and offline ev
 
 A/B testing, retention analysis, bootstrap uncertainty, and product decisions.
 
-### 📡 Customer Intelligence
+### 🚲 Mobility Analytics
 
-**[Telecom Customer Churn Prediction](https://github.com/gokul-debugger/telecom-customer-churn-prediction)**
+**[Urban Bike Demand Rebalancing](https://github.com/gokul-debugger/urban-bike-demand-rebalancing)**
 
-Churn risk, threshold-aware classification, retention economics, and segmentation.
+Forecasts station-level Citi Bike demand with uncertainty estimates and uses minimum-cost flow to plan bike moves.
 
 </td>
 <td width="50%" valign="top">
@@ -98,11 +108,11 @@ Churn risk, threshold-aware classification, retention economics, and segmentatio
 
 Binary intrusion detection, attack diagnosis, explainability, and web-log monitoring.
 
-### 💬 Language and Text
+### 🗓️ Scheduling and Optimization
 
-**[Cyberbullying Detection](https://github.com/gokul-debugger/cyberbullying-detection)**
+**[Campus Schedule Optimizer](https://github.com/gokul-debugger/campus-schedule-optimizer)**
 
-Six-category harmful-content classification across online text.
+Builds university timetables without staff, room, or cohort conflicts and suggests substitute coverage when instructors are absent.
 
 ### 🏨 Sentiment
 
@@ -113,15 +123,6 @@ Classical ML, LSTM, transformer inference, and an interactive dashboard.
 </td>
 </tr>
 </table>
-
-## Open Source Work
-
-I also contribute upstream when a project has a useful, well-scoped improvement:
-
-- **[Thunderbird Pro add-on #1093](https://github.com/thunderbird/tbpro-add-on/pull/1093)**: translation foundation for the Send interface, merged.
-- **[Django Modern REST #1249](https://github.com/wemake-services/django-modern-rest/pull/1249)**: expanded token authentication coverage, merged.
-- **[ytmusicapi #999](https://github.com/sigma67/ytmusicapi/pull/999)**: CI coverage for the `ytmusicapi-2` branch, merged.
-- **[Plotly.js #7958](https://github.com/plotly/plotly.js/pull/7958)** and **[#7990](https://github.com/plotly/plotly.js/pull/7990)**: active contributions to chart alignment and JSON export workflows.
 
 ## Toolkit
 
